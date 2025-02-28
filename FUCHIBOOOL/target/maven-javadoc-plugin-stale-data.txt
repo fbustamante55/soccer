@@ -1,0 +1,41 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+--release
+23
+-sourcepath
+'D:/1. ESTRUCTURA DE DATOS/SEMANA 4/FUCHIBOOOL/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2025. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'D:/1. ESTRUCTURA DE DATOS/SEMANA 4/FUCHIBOOOL/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'FUCHIBOOOL 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'FUCHIBOOOL 1.0-SNAPSHOT API'
+com.mycompany.fuchiboool
+D:\1. ESTRUCTURA DE DATOS\SEMANA 4\FUCHIBOOOL\src\main\java = 1740448432000
+D:\1. ESTRUCTURA DE DATOS\SEMANA 4\FUCHIBOOOL\target\reports\apidocs\element-list = 1740449002000
+D:\1. ESTRUCTURA DE DATOS\SEMANA 4\FUCHIBOOOL\target\reports\apidocs\overview-tree.html = 1740449004000
+D:\1. ESTRUCTURA DE DATOS\SEMANA 4\FUCHIBOOOL\target\reports\apidocs\allclasses-index.html = 1740449004000
+D:\1. ESTRUCTURA DE DATOS\SEMANA 4\FUCHIBOOOL\target\reports\apidocs\allpackages-index.html = 1740449004000
+D:\1. ESTRUCTURA DE DATOS\SEMANA 4\FUCHIBOOOL\target\reports\apidocs\module-search-index.js = 1740449004000
+D:\1. ESTRUCTURA DE DATOS\SEMANA 4\FUCHIBOOOL\target\reports\apidocs\package-search-index.js = 1740449004000
+D:\1. ESTRUCTURA DE DATOS\SEMANA 4\FUCHIBOOOL\target\reports\apidocs\type-search-index.js = 1740449004000
+D:\1. ESTRUCTURA DE DATOS\SEMANA 4\FUCHIBOOOL\target\reports\apidocs\member-search-index.js = 1740449004000
+D:\1. ESTRUCTURA DE DATOS\SEMANA 4\FUCHIBOOOL\target\reports\apidocs\tag-search-index.js = 1740449004000
+D:\1. ESTRUCTURA DE DATOS\SEMANA 4\FUCHIBOOOL\target\reports\apidocs\index-all.html = 1740449004000
+D:\1. ESTRUCTURA DE DATOS\SEMANA 4\FUCHIBOOOL\target\reports\apidocs\search.html = 1740449004000
+D:\1. ESTRUCTURA DE DATOS\SEMANA 4\FUCHIBOOOL\target\reports\apidocs\index.html = 1740449004000
+D:\1. ESTRUCTURA DE DATOS\SEMANA 4\FUCHIBOOOL\target\reports\apidocs\help-doc.html = 1740449004000
